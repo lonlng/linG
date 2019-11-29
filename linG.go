@@ -1,3 +1,5 @@
+package ling_0
+
 import "unsafe"
 
 func Str2bytes(s string) []byte {
