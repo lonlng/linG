@@ -1,4 +1,4 @@
-package ling_0
+package linG
 
 import "unsafe"
 
